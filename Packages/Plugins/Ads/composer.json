@@ -1,0 +1,20 @@
+{
+    "name": "limahost/ads",
+    "version" : "1.0.0",
+    "description": "This is where all advertisements like slideshows etc will be uploaded",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Limahost\\Ads\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "delyn",
+            "email": "molabige@limahosting.my"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
