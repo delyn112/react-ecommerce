@@ -4,7 +4,110 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e04ea85-25f6-4978-8db7-ce0984c75c84" name="Changes" comment="" />
+    <list default="true" id="2e04ea85-25f6-4978-8db7-ce0984c75c84" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/database/migrations/create_table_countries_2026_01_02_113112.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/database/migrations/create_table_countries_data_2026_01_02_121744.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/public/css/acl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/public/js/acl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/assets/js/delete_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/assets/js/image_uploader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/assets/js/store_data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/assets/js/validation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/assets/sass/imageuploader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/views/alert.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/resources/views/session_alert.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/src/Http/Controllers/RegionalJsonController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/src/Providers/AclServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Acl/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/database/migrations/create_table_users_2026_01_02_113341.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/public/css/auth.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/public/js/auth.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/public/mix-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/assets/js/togglepassword.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/assets/sass/auth.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/assets/sass/media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/assets/sass/profile.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/lang/en/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/lang/en/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/lang/my/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/lang/my/register.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/login.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/password_change.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/profile.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/register.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/reset_password.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/resources/views/verification_email.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/routes/profile.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Enums/BanStatusEnum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Enums/LanguageStatusEnum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Enums/RegisterStatusEnum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/AuthenticateEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/EmailVerifiedConfirmationEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/ResetPasswordConfirmationEmailEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/ResetPasswordEmailEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/VerifyEmailEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Events/WelcomeEmailEvent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Facades/Auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Facades/Authcheck.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Controllers/LoginController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Controllers/PasswordController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Controllers/ProfileManagerController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Controllers/RegisterController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Controllers/VerifyEmailController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Middlewares/AuthenticateUserMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Middlewares/ResetPasswordMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Middlewares/VerifyEmailMiddleware.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Requests/ChangePasswordRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Requests/CreateUserRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Requests/LoginUserRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Requests/ProfileRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Http/Requests/ResetPasswordRequest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Models/AuthModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Providers/AuthenticationServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Eloquents/LoginRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Eloquents/ProfileRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Eloquents/RegisterRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Interfaces/LoginRepositoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Interfaces/ProfileRepositoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/src/Repositories/Interfaces/RegisterRepositoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Authentication/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/Plugins/Ads/vendor/composer/autoload_static.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +133,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "delyn112"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/delyn112/react-ecommerce.git",
+    "accountId": "d286d3b0-8d1e-4160-8ff8-4e8190306834"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -119,7 +234,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/xampp/htdocs/projects/limahost",
+    "last_opened_file_path": "C:/xampp/htdocs/projects/react-ecommerce",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -158,6 +273,7 @@
       <workItem from="1767595655199" duration="844000" />
       <workItem from="1770447891582" duration="6088000" />
       <workItem from="1775366658832" duration="58849000" />
+      <workItem from="1775836467557" duration="2153000" />
     </task>
     <servers />
   </component>
